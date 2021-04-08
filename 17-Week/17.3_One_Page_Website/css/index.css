@@ -1,0 +1,31 @@
+.primaryNavigation {
+    background-color:rgb(197, 196, 196);
+}
+.navigation {
+    display: inline-block;
+    background-color: rgb(102, 102, 102);
+    padding: 15px;
+    color: white;
+}
+.left {
+    width: 30%;
+    height: 600px;
+    float: left;
+}
+.right {
+    width: 70%;
+    height: 600px;
+    float: left;
+}
+.leftTop {
+    width:auto;
+    height: 30%;
+    float: top;
+    background-color: orangered;
+}
+.leftBottom {
+    width:auto;
+    height: 70%;
+    float: top;
+    background-color: paleturquoise;
+}
